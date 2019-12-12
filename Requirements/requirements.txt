@@ -1,0 +1,26 @@
+Requirements:
+
+    Tools:
+        Jupyter Notebooks
+
+    Python:
+        Python 3.7 (Anaconda)
+
+    Libraries:
+        pandas
+        numpy
+        warnings
+        xgboost
+        seaborn
+        matplotlib.pyplot
+        sklearn - preprocessing
+        xgboost - plot_importance
+                - plot_tree
+        sklearn.metrics - mean_squared_error
+                        - mean_absolute_error
+
+    File Structure:
+        Provided, no need to modify file paths (as long as data is in \Data\)
+
+    Necessary Files:
+        Historical_Product_Demand.csv
